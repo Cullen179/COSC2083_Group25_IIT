@@ -3,7 +3,7 @@
     grid-template-columns: 40% 60%;
     justify-content: space-evenly;
     border: 1px solid black;
-
+    background-color: white;
 }
 
 .grid-container-left {
@@ -11,6 +11,7 @@
     grid-template-columns: 60% 40%;
     justify-content: space-evenly;
     border: 1px solid black;
+    background-color: white;
 
 }
 
@@ -39,7 +40,8 @@
     font-weight: 700;
     font-size: 25px;
     border: 1px solid black;
-    padding-bottom: 25px;
+    padding-bottom: 15px;
+    padding-top: 60px;
 }
 
 .text_elm {
