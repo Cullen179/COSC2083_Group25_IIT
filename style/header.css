@@ -1,0 +1,36 @@
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--color-nav);
+    padding: 10px 10px;
+    color: #9085d1;
+}
+
+.logo {
+    font-size: 30px;
+    padding-left: 30px;
+    font-weight: 600;
+    color: #9085d1;
+}
+
+/* Navigation Bar */
+.nav_bar {
+    list-style: none;
+}
+
+.nav_bar li {
+    display: inline-block;
+    margin: auto;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+.nav_bar li a {
+    color: #d4d6e5;
+}
+
+.nav_bar a:hover {
+    text-decoration: underline #9085d1;
+    color: white;
+}
