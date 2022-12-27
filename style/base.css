@@ -23,3 +23,8 @@ li, a, button {
     font-size: 16px;
     text-decoration: none;
 }
+
+/* JavaScript hide */
+.hide {
+    display: none;
+}
