@@ -1,4 +1,4 @@
-.grid-container-right {
+.grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
     justify-content: space-evenly;
@@ -6,7 +6,7 @@
     background-color: white;
 }
 
-.grid-container-right img {
+.grid-container img {
     width: 400px;
 }
 

@@ -12,6 +12,7 @@ contents.forEach(content => {
     }
 });
 
+// Choose the hidden paragraph
 function readMore(btn){
     let post = btn.parentElement.parentElement;
     post.querySelector(".dots").classList.toggle("hide");
