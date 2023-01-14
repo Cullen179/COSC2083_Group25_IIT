@@ -1,3 +1,4 @@
+// Hide the content based on the character limit
 let noOfCharac = 400;
 let contents = document.querySelectorAll(".content");
 contents.forEach(content => {
