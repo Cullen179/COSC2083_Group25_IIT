@@ -20,9 +20,18 @@
 
 .slide > img {
   display: block;
-  width: 100%;
+  /* width: 100%; */
+  height: 100%;
   object-fit: cover;
   object-position: center;
+  margin-left: auto;
+    margin-right: auto;
+}
+.img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .slide[data-active] {
